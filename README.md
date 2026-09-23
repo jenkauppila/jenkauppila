@@ -43,11 +43,6 @@ Models, relationships, endpoints... basically my happy place.
 - **Frontend** (_when I have to_ 😉): React
 - **Deploy:** Render
 
-## A few other things
-
-- I spent years as a recruiter before going all-in on software, so I speak fluent human too
-- I'm a big-time visual learner (hello, ADHD), which is why my docs tend to come with diagrams
-- I care a lot more about the _why_ than the _is_... if you want to know why I made a decision in any one of these repos, ask!
 
 ## Say Hello!
 
